@@ -115,12 +115,12 @@ body {
   justify-content: center;
 }
 
-.first_work {
-  display:block;
-  flex-wrap: wrap;
+
+
+.second_work {
   width: 100%;
   position: relative;
-  background-image: url("img/featuree.jpg");
+  background-image: url("img/fintech.jpg");
   background-size: cover;
   min-height: 300px;
   margin-top: 20px;
@@ -128,10 +128,12 @@ body {
   background-position: center;
 }
 
-.second_work {
+.first_work {
+  display:block;
+  flex-wrap: wrap;
   width: 100%;
   position: relative;
-  background-image: url("img/fintech.jpg");
+  background-image: url("img/featuree.jpg");
   background-size: cover;
   min-height: 300px;
   margin-top: 20px;
