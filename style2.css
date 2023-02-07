@@ -32,17 +32,18 @@
     
   }
   
-  .first_work {
-    width: 30%;
-    order: 0;
-    margin: 5px;  
-    min-height: 350px;
-  }
   
   .second_work {
     width: 30%;
     order: 1;
     margin: 5px;  
+  }
+
+  .first_work {
+    width: 30%;
+    order: 0;
+    margin: 5px;  
+    min-height: 350px;
   }
   
   .third_work {
@@ -81,10 +82,11 @@
         text-align: right; 
         font-size: 12px
     }
-    .first_work {
-        min-height: 500px;
-    }
+    
     .third_work {
         min-height: 500px;
     }
+    .first_work {
+      min-height: 500px;
+  }
 }
